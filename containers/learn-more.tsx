@@ -30,7 +30,7 @@ export const LearnMoreSection = () => {
         xl:max-[3000px]:justify-start 
         xl:max-[3000px]:items-start
       ">
-        <Badge content="About Me" />
+        <Badge content="Hakkımızda" />
         <Title
           className="
           w-[10ch] 
@@ -40,7 +40,7 @@ export const LearnMoreSection = () => {
           sm:max-lg:text-[32px]
           lg:max-[3000px]:text-[45px]
         ">
-          Learn More About Me
+          Daha fazlası için Tıkla
         </Title>
         <p
           className="
@@ -52,7 +52,7 @@ export const LearnMoreSection = () => {
           xl:max-[3000px]:text-start
           text-center
       ">
-          Hey, I&apos;m Diego! 👋 A Frontend Engineer with hands-on experience in web application development, blending front-end and back-end systems using the MERN stack. Skilled in crafting responsive interfaces with React and TypeScript, I focus on user-friendly designs.
+          Firmamız 2023 yılında Ticaretin Merkezi Gaziantep'te kurulmuştur. Bünyemizdeki grafik tasarım, dijital baskı ve maliye anlaşmalı matbaalarımızla sürekli form, tabaka ofset baskı, selefon, kesim ve mücellit işlerinizde hizmetinizdeyiz.
         </p>
       </div>
       <Image
