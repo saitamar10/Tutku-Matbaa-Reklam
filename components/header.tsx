@@ -41,14 +41,14 @@ export const Header: React.FC = () => {
           text-[16px]
           lg:max-[3000px]:text-[23px]
           ">
-          DESIGN . CODE . DEPLOY
+          Siz İsteyin Biz Tasarlayalım
         </p>
         <Title className="text-center">
           Engaging <br
             className="hidden min-[500px]:block"
           />
           <span className="title-gradient">
-            Web Experiences.
+            İş Deneyimi
           </span>
         </Title>
       </div>
@@ -59,14 +59,14 @@ export const Header: React.FC = () => {
         lg:max-[3000px]:text-[23px]
         text-center
         ">
-        Revealing Code Insights, Debugging Glitches,
+        Tutku Matbaa Reklam Gaziantep’in önde gelen reklam firmalarından biridir.
         <br
           className="hidden min-[500px]:block"
         />
-        and Ensuring Seamless Functionality.
+        Firma olarak yaptıklarımızla yetinmiyor hep “en iyisini” yapmaya çalışıyoruz.
       </h2>
       <Link
-        href={"mailto:diegovs_@outlook.com"}
+        href={"mailto:gazianteptutku@gmail.com"}
         target="_a"
         className="
         header-button 
@@ -78,7 +78,7 @@ export const Header: React.FC = () => {
         rounded-full 
         font-extrabold
         ">
-        Contact Me
+        Bize Ulaş
       </Link>
       <Link
         className="
@@ -92,7 +92,7 @@ export const Header: React.FC = () => {
         font-medium"
         href={'/#projects'}
       >
-        Check out the work I&apos;ve done
+        Bizimle iletişime geçin.
       </Link>
     </header>
   )
