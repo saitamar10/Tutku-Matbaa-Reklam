@@ -56,8 +56,7 @@ export const TechStackCarousel = () => {
               transition-all
           "
           >
-            Blazingly Fast and
-            Reliable Tech Stack
+            Tasarımınız Yok Mu? Sorun Değil, Size Yardım Etmek İçin Buradayız!
           </h1>
           <h2 className="
           text-[11px] 
@@ -69,7 +68,7 @@ export const TechStackCarousel = () => {
           text-center
           opacity-70
           ">
-            I love working with these technologies. <br /> Efficiency empowered, building with <br /> speed and stability
+            Tasarımınız olmasa da sorun değil! Uygun fiyatlarla ve hızlı geri dönüşlerle birinci sınıf tasarımlar ve hizmet sunuyoruz. Broşürler, kartvizitler, afişler, tabelalar ve çok daha fazlasıyla hizmetinizdeyiz!
           </h2>
         </div>
         <Link
@@ -84,7 +83,7 @@ export const TechStackCarousel = () => {
         font-medium"
           href={'/#projects'}
         >
-          Check out the work I&apos;ve done
+          Sipariş için Tıkla
         </Link>
       </div>
       <div className="
