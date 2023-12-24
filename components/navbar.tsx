@@ -13,24 +13,24 @@ export const Navbar: React.FC = () => {
 
   const linksMap = [
     {
-      linkText: "About Me",
+      linkText: "Hakkımızda",
       href: "/#learn-more"
     },
     {
-      linkText: "Resume",
-      href: "https://drive.google.com/file/d/1sfiaPkFwlLhdVUoyzxvxjvUygs0giNTA/view?usp=sharing",
+      linkText: "Gazete Sitemiz",
+      href: "https://www.gazianteptutku.com",
       target: "_a"
     },
     {
-      linkText: "Experience",
+      linkText: "Deneyimler",
       href: "/#experience"
     },
     {
-      linkText: "My Work",
+      linkText: "Projelerimiz",
       href: "/#projects"
     },
     {
-      linkText: "Contact Me",
+      linkText: "Bize Ulaş",
       href: "/#contact"
     },
   ]
@@ -123,11 +123,11 @@ export const Navbar: React.FC = () => {
         items-center 
         justify-center 
         border">
-            <li><Link className="navbar-links-text" href="/#learn-more">About me</Link></li>
-            <li><Link className="navbar-links-text" target="_a" href="https://drive.google.com/file/d/1sfiaPkFwlLhdVUoyzxvxjvUygs0giNTA/view?usp=sharing">Resume</Link></li>
-            <li><Link className="navbar-links-text" href="/#experience">Experience</Link></li>
-            <li><Link className="navbar-links-text" href="/#projects">My Work</Link></li>
-            <li><Link className="navbar-links-text" href="/#contact">Contact Me</Link></li>
+            <li><Link className="navbar-links-text" href="/#learn-more">Hakkımızda</Link></li>
+            <li><Link className="navbar-links-text" target="_a" href="https://www.gazianteptutku.com">Gazete</Link></li>
+            <li><Link className="navbar-links-text" href="/#experience">İş Deneyimi</Link></li>
+            <li><Link className="navbar-links-text" href="/#projects">Projeler</Link></li>
+            <li><Link className="navbar-links-text" href="/#contact">Bize Ulaş</Link></li>
           </ul>
         </div>
       </nav>
