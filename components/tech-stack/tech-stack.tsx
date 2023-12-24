@@ -35,7 +35,7 @@ export const HorizontalTechStack: React.FC = () => {
         text-center
         "
       >
-        Hayalinizdeki projeyi 'Hayalden Baskıya' sloganıyla, tüm süreçleri yöneterek gerçeğe dönüştürüyoruz. 
+        Hayalinizdeki projeyi Hayalden Baskıya sloganıyla, tüm süreçleri yöneterek gerçeğe dönüştürüyoruz. 
       </p>
       <div
         className="
