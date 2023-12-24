@@ -23,7 +23,7 @@ export const Testimonials = () => (
           sm:max-lg:text-[32px]
           lg:max-[3000px]:text-[45px]
         ">
-        Dont&apos; Just Take My Word For It
+     Rüyalarınızı Tasarıma Döküyoruz
       </Title>
       <p
         className="
@@ -33,8 +33,7 @@ export const Testimonials = () => (
           lg:max-[3000px]:text-[32px]
           text-center
       ">
-        I&apos;m proud to be working with these incredible companies, and
-        thankful for their feedback, suggestions, and support.
+        Hayalinizdeki projeyi 'Rüyalarınızı Tasarıma Döküyoruz' sloganıyla, tüm süreçleri yöneterek gerçeğe dönüştürüyoruz. 
       </p>
     </div>
   </section>
