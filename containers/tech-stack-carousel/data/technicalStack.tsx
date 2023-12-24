@@ -11,32 +11,32 @@ import { TypeScriptLogo } from "../icons/ts-logo";
 export const techStack = [
   {
     name: "Matbaa",
-    icon: "https://ipekmatbaareklam.com/wp-content/uploads/2017/10/icon_1.png",
+    icon: <ReactLogo className="max-md:w-6" />,
 
   },
   {
     name: "Reklam Ürünleri",
-    icon: "https://ipekmatbaareklam.com/wp-content/uploads/2021/12/icon-6.png",
+    icon: <ReactLogo className="max-md:w-6" />,
 
   },
   {
     name: "Tabela",
-    icon: "https://ipekmatbaareklam.com/wp-content/uploads/2017/10/icon_3.png",
+    icon: <ReactLogo className="max-md:w-6" />,
 
   },
   {
     name: "Tasarım",
-    icon: "https://ipekmatbaareklam.com/wp-content/uploads/2017/10/icon_4.png",
+    icon: <ReactLogo className="max-md:w-6" />,
 
   },
   {
     name: "Promosyon",
-    icon: "https://ipekmatbaareklam.com/wp-content/uploads/2017/10/icon_5.png",
+    icon: <ReactLogo className="max-md:w-6" />,
 
   },
   {
     name: "Galeri",
-    icon: "https://ipekmatbaareklam.com/wp-content/uploads/2021/05/services-icon-5.png",
+    icon: <ReactLogo className="max-md:w-6" />,
 
   },
 ];
