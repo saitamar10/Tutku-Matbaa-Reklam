@@ -26,7 +26,7 @@ export const Projects = () => {
         xl:max-[3000px]:justify-end 
         xl:max-[3000px]:items-end
       ">
-        <Badge content="My Work" />
+        <Badge content="Hizmetlerimiz" />
         <Title
           className="
           xl:max-[3000px]:text-end 
@@ -35,7 +35,7 @@ export const Projects = () => {
           sm:max-lg:text-[32px]
           lg:max-[3000px]:text-[45px]
         ">
-          Featured Projects
+          Projelerimiz ve Çalışmalarımız
         </Title>
       </div>
       {projects.map((project) => (
