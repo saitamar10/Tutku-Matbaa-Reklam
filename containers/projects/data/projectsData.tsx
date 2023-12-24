@@ -3,19 +3,15 @@ import { SpotifyImage } from "../images/spotify";
 
 export const projects = [
   {
-    name: "Filmaster",
-    badge: "IMDb Clone",
-    description: `Upgraded version of Filmaster, a Responsive Modern UI/UX Movie Catalog Application using React, TypeScript, Tailwind, Firebase Hosting and Firestore Database.`,
-    githubLink: "https://github.com/diegov05/filmasterV2",
-    livePreview: "https://filmasterv2.web.app/",
-    image: <FilmasterImage />,
+    name: "Matbaa Hizmetlerimiz",
+    badge: "Matbaa Hizmetlerimiz",
+    description: ` Firmanızın kurumsal kimliğini ve prestijini ön planda tutarak yüksek kalitede üretim yapan makine parkuru ile sizlere sunulmaktadır.`,
+    image: "https://platinumreklam.com/uploads/hizmet/matbaa-hizmeti-1570455201.jpg",
   },
   {
-    name: "Spotify Clone",
-    badge: "Spotify Clone",
-    description: `Spotify Clone using Next.js 13, TypeScript, Supabase, RadixUI, Tailwindcss and setting up test payments with Stripe. Deployed with Vercel.`,
-    githubLink: "https://github.com/diegov05/spotify-clone",
-    livePreview: "https://spotify-clone-black-five.vercel.app/",
-    image: <SpotifyImage />,
+    name: "Reklam Hizmetleri",
+    badge: "Reklam Hizmetleri",
+    description: `Digital baskılı afiş ve  pankart, Işıklı ve ışıksız tabela, Kutu harf, İş güvenliği ve trafik  levhaları,  Yönlendirme Levhaları,`,
+    image: "http://www.ankaracammutfak.com/images/sayfa/2138631560-reklam-hizmetleri.jpg",
   },
 ]
