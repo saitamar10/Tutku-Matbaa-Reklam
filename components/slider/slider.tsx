@@ -9,7 +9,7 @@ import "./styles/slider.css"
 
 export const Slider = () => {
 
-  const [selected, setSelected] = useState("MediaSoft")
+  const [selected, setSelected] = useState("Tutku Matbaa Reklam")
   const [index, setIndex] = useState(0)
 
   const handleClick = (selectedCompany: string) => {
