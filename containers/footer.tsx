@@ -55,10 +55,10 @@ export const Footer = () => (
           md:max-[3000px]:text-start
           text-center
       ">
-          Open for job opportunities, open-source collaboration and freelance requests.
+         Size daha iyi ve Daha ekonomik yardımcı için bize ulaşın
         </p>
         <Link
-          href={"mailto:diegovs_@outlook.com"}
+          href={"mailto:gazianteptutku@gmail.com"}
           target="_a"
           className="
         w-max
@@ -71,7 +71,7 @@ export const Footer = () => (
         rounded-full 
         font-extrabold
         ">
-          Contact Me
+          Bize ulaş
         </Link>
       </div>
       <div className="w-full flex items-center justify-center">
