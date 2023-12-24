@@ -68,20 +68,12 @@ export const SliderContent: React.FC<SliderContentProps> = ({ role, company, dat
         gap-8
       ">
         <li>
-          Got hired as a Software Engineering Intern by MediaSoft Inc. while in my Junior year of High School. I was mostly assigned front-end tasks but also did some API handling. The internship consisted in 8 months of development, learning and mentoring from senior developers, code reviewing, code testing and task management.
+          Alanında uzman kadrosuyla siz değerli müşterilerimize en iyi hizmeti vermeye çalışıyoruz.        
         </li>
         <li>
-          During my internship, I led the creation of a really helpful Server Dashboard App. It made things easier, boosting how much we got done by 20%. It was a game-changer, making our work smoother and more efficient.
+         Deneyimli grafikerlerimiz ve konusunda uzman baskı ekibimiz ve yüksek teknolojiye sahip makinelerimiz ile taleplerinizi, her defasında, tam zamanında ve istediğiniz şekilde karşılıyoruz.        
         </li>
-        <li>
-          Working closely with a great team, we built modern web apps that were easy to manage and grow. Our work contributed to a 15% increase in the company&apos;s earnings, showing how our ideas could make a real difference.
-        </li>
-        <li>
-          One of my big projects was keeping up the company&apos;s dashboard page. We made it work much better, speeding up how things got done by 25%. That meant the senior team could focus on bigger tasks, which helped the company grow.
-        </li>
-        <li>
-          These experiences taught me a lot and fueled my passion for using tech to solve problems. It&apos;s what drives me to keep making things better and finding smarter solutions.
-        </li>
+        
       </ul>
     </section>
   )
