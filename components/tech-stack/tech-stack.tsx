@@ -35,7 +35,7 @@ export const HorizontalTechStack: React.FC = () => {
         text-center
         "
       >
-        Tutku Matbaa Reklam Gaziantep’in önde gelen reklam firmalarından biridir.
+        Hayalinizdeki projeyi 'Hayalden Baskıya' sloganıyla, tüm süreçleri yöneterek gerçeğe dönüştürüyoruz. 
       </p>
       <div
         className="
