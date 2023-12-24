@@ -35,7 +35,7 @@ export const HorizontalTechStack: React.FC = () => {
         text-center
         "
       >
-        Building with the latest and most reliable technologies in the front-end world
+        Tutku Matbaa Reklam Gaziantep’in önde gelen reklam firmalarından biridir.
       </p>
       <div
         className="
