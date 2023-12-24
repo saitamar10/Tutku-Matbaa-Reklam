@@ -29,7 +29,7 @@ export const ExperienceSection = () => {
         md:max-[3000px]:items-start
         
         ">
-        <Badge content="Work Experience" />
+        <Badge content="İş Deneyimi" />
         <Title
           className="
           md:max-[3000px]:text-start 
@@ -38,7 +38,8 @@ export const ExperienceSection = () => {
           sm:max-lg:text-[32px]
           lg:max-[3000px]:text-[45px]
         ">
-          Valuable Experience
+          
+        Tüm baskı ihtiyaçlarınızı hızlı ve kaliteden ödün vermeden size sunuyoruz.
         </Title>
       </div>
       <Slider />
